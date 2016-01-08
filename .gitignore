@@ -1,0 +1,9 @@
+.DS_Store
+*.xcuserdatad
+.gradle
+/local.properties
+platforms/
+/plugins
+npm-debug.log
+/node_modules
+resources/signing
